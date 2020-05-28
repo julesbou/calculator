@@ -1,0 +1,14 @@
+Create a calculator in HTML / CSS.
+
+Open index.html in your browser, and start creating a calculator, you have one hour.
+
+Rules:
+- you need to use pure Javascript or jQuery (any other library is forbidden).
+- put your css in style.css, final design is not important, but it needs to look at the very least decent.
+
+See calculator.png to have an idea of functionalities needed, some important notes:
+- "+/-" button is inversing the sign of the value displayed, so if you have "3" and click on it, you will see "-3".
+- "%" button is dividing the value displayed by 100.
+- "AC" button is reseting the value displayed.
+
+Good hacking !
